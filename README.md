@@ -66,7 +66,7 @@ phishing-website-detector/
 
 ### 1. Clone Repository & Setup Environment
 ```bash
-git clone https://github.com/<your-username>/phishing-website-detector.git
+git clone https://github.com/KingLinux24/phishing-website-detector.git
 cd phishing-website-detector
 python -m venv .venv
 source .venv/bin/activate
